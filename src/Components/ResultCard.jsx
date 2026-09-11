@@ -10,7 +10,7 @@ function ResultCard({
 
 
   return (
-    <Container className="pb-5 mt-5 mb-5" id="result">
+    <Container className="pb-5" id="result">
 
       <Row className="justify-content-center">
 
