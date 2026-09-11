@@ -16,7 +16,7 @@ function DiscountForm({
   return (
     <>
 
-      <Container className="py-5 text-center">
+      <Container className="form py-5 text-center" >
 
         <Row className="justify-content-center">
 

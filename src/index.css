@@ -147,5 +147,9 @@ body::before {
 }
 
 #result {
-  scroll-margin-top: 100px;
+  scroll-margin-top: 150px;
+}
+
+.form{
+  margin-top: 50px;
 }
